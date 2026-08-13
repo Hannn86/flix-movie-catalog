@@ -31,6 +31,12 @@ Data film diperoleh dari TMDB API.
 - TMDB API
 - SQLite
 
+## 📸 Screenshot
+
+### 🎬 Tampilan FLIX
+
+![FLIX Movie Catalog](screenshots/dashboard.png)
+
 ## 🗂️ Struktur Project
 
 ```text
