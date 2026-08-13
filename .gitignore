@@ -1,0 +1,17 @@
+# API Configuration
+js/config.js
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
